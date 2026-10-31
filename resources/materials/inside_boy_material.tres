@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" format=3]
+
+[ext_resource type="Texture2D" path="res://assets/models/character/inside_boy_palette.png" id="1_kgbli"]
+
+[resource]
+albedo_texture = ExtResource("1_kgbli")
+roughness = 0.85
+texture_filter = 0

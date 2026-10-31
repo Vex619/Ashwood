@@ -1,0 +1,11 @@
+# Godot 4+ specific ignores
+.godot/
+*.translation
+
+# Raw unmastered audio cache (mastered runtime .wav files are in assets/audio/foley/)
+assets/audio/raw/
+
+# OS / Editor temporary files
+.DS_Store
+*.tmp
+*~
