@@ -1,0 +1,547 @@
+{
+  "concrete_strike_soft_01.wav": {
+    "duration_sec": 0.22,
+    "peak_db": -3.0,
+    "rms_db": -22.68
+  },
+  "concrete_strike_hard_01.wav": {
+    "duration_sec": 0.28,
+    "peak_db": -1.2,
+    "rms_db": -18.42
+  },
+  "concrete_strike_land_01.wav": {
+    "duration_sec": 0.42,
+    "peak_db": -0.8,
+    "rms_db": -14.67
+  },
+  "concrete_body_grit_01.wav": {
+    "duration_sec": 0.26,
+    "peak_db": -2.5,
+    "rms_db": -18.33
+  },
+  "concrete_scuff_drag_01.wav": {
+    "duration_sec": 0.36,
+    "peak_db": -1.8,
+    "rms_db": -14.5
+  },
+  "concrete_tail_release_01.wav": {
+    "duration_sec": 0.2,
+    "peak_db": -4.0,
+    "rms_db": -19.41
+  },
+  "concrete_strike_soft_02.wav": {
+    "duration_sec": 0.22,
+    "peak_db": -3.0,
+    "rms_db": -20.59
+  },
+  "concrete_strike_hard_02.wav": {
+    "duration_sec": 0.28,
+    "peak_db": -1.2,
+    "rms_db": -19.76
+  },
+  "concrete_strike_land_02.wav": {
+    "duration_sec": 0.42,
+    "peak_db": -0.8,
+    "rms_db": -13.03
+  },
+  "concrete_body_grit_02.wav": {
+    "duration_sec": 0.26,
+    "peak_db": -2.5,
+    "rms_db": -18.32
+  },
+  "concrete_scuff_drag_02.wav": {
+    "duration_sec": 0.36,
+    "peak_db": -1.8,
+    "rms_db": -15.32
+  },
+  "concrete_tail_release_02.wav": {
+    "duration_sec": 0.2,
+    "peak_db": -4.0,
+    "rms_db": -18.24
+  },
+  "concrete_strike_soft_03.wav": {
+    "duration_sec": 0.22,
+    "peak_db": -3.0,
+    "rms_db": -20.92
+  },
+  "concrete_strike_hard_03.wav": {
+    "duration_sec": 0.28,
+    "peak_db": -1.2,
+    "rms_db": -18.7
+  },
+  "concrete_strike_land_03.wav": {
+    "duration_sec": 0.42,
+    "peak_db": -0.8,
+    "rms_db": -16.92
+  },
+  "concrete_body_grit_03.wav": {
+    "duration_sec": 0.26,
+    "peak_db": -2.5,
+    "rms_db": -19.15
+  },
+  "concrete_scuff_drag_03.wav": {
+    "duration_sec": 0.36,
+    "peak_db": -1.8,
+    "rms_db": -15.54
+  },
+  "concrete_tail_release_03.wav": {
+    "duration_sec": 0.2,
+    "peak_db": -4.0,
+    "rms_db": -19.36
+  },
+  "concrete_strike_soft_04.wav": {
+    "duration_sec": 0.22,
+    "peak_db": -3.0,
+    "rms_db": -20.37
+  },
+  "concrete_strike_hard_04.wav": {
+    "duration_sec": 0.28,
+    "peak_db": -1.2,
+    "rms_db": -19.84
+  },
+  "concrete_strike_land_04.wav": {
+    "duration_sec": 0.42,
+    "peak_db": -0.8,
+    "rms_db": -13.93
+  },
+  "concrete_body_grit_04.wav": {
+    "duration_sec": 0.26,
+    "peak_db": -2.5,
+    "rms_db": -18.78
+  },
+  "concrete_scuff_drag_04.wav": {
+    "duration_sec": 0.36,
+    "peak_db": -1.8,
+    "rms_db": -15.15
+  },
+  "concrete_tail_release_04.wav": {
+    "duration_sec": 0.2,
+    "peak_db": -4.0,
+    "rms_db": -18.67
+  },
+  "concrete_strike_soft_05.wav": {
+    "duration_sec": 0.22,
+    "peak_db": -3.0,
+    "rms_db": -21.39
+  },
+  "concrete_strike_hard_05.wav": {
+    "duration_sec": 0.28,
+    "peak_db": -1.2,
+    "rms_db": -15.9
+  },
+  "concrete_strike_land_05.wav": {
+    "duration_sec": 0.42,
+    "peak_db": -0.8,
+    "rms_db": -16.47
+  },
+  "concrete_body_grit_05.wav": {
+    "duration_sec": 0.26,
+    "peak_db": -2.5,
+    "rms_db": -19.98
+  },
+  "concrete_scuff_drag_05.wav": {
+    "duration_sec": 0.36,
+    "peak_db": -1.8,
+    "rms_db": -15.6
+  },
+  "concrete_tail_release_05.wav": {
+    "duration_sec": 0.2,
+    "peak_db": -4.0,
+    "rms_db": -17.71
+  },
+  "swamp_strike_soft_01.wav": {
+    "duration_sec": 0.3,
+    "peak_db": -2.2,
+    "rms_db": -21.05
+  },
+  "swamp_strike_hard_01.wav": {
+    "duration_sec": 0.36,
+    "peak_db": -1.2,
+    "rms_db": -12.88
+  },
+  "swamp_strike_land_01.wav": {
+    "duration_sec": 0.48,
+    "peak_db": -0.8,
+    "rms_db": -13.95
+  },
+  "swamp_body_slosh_01.wav": {
+    "duration_sec": 0.34,
+    "peak_db": -2.0,
+    "rms_db": -18.52
+  },
+  "swamp_scuff_drag_01.wav": {
+    "duration_sec": 0.4,
+    "peak_db": -1.6,
+    "rms_db": -16.74
+  },
+  "swamp_tail_suction_01.wav": {
+    "duration_sec": 0.32,
+    "peak_db": -1.8,
+    "rms_db": -16.92
+  },
+  "swamp_strike_soft_02.wav": {
+    "duration_sec": 0.3,
+    "peak_db": -2.2,
+    "rms_db": -21.03
+  },
+  "swamp_strike_hard_02.wav": {
+    "duration_sec": 0.36,
+    "peak_db": -1.2,
+    "rms_db": -14.23
+  },
+  "swamp_strike_land_02.wav": {
+    "duration_sec": 0.48,
+    "peak_db": -0.8,
+    "rms_db": -15.65
+  },
+  "swamp_body_slosh_02.wav": {
+    "duration_sec": 0.34,
+    "peak_db": -2.0,
+    "rms_db": -15.04
+  },
+  "swamp_scuff_drag_02.wav": {
+    "duration_sec": 0.4,
+    "peak_db": -1.6,
+    "rms_db": -15.36
+  },
+  "swamp_tail_suction_02.wav": {
+    "duration_sec": 0.32,
+    "peak_db": -1.8,
+    "rms_db": -20.87
+  },
+  "swamp_strike_soft_03.wav": {
+    "duration_sec": 0.3,
+    "peak_db": -2.2,
+    "rms_db": -21.5
+  },
+  "swamp_strike_hard_03.wav": {
+    "duration_sec": 0.36,
+    "peak_db": -1.2,
+    "rms_db": -16.36
+  },
+  "swamp_strike_land_03.wav": {
+    "duration_sec": 0.48,
+    "peak_db": -0.8,
+    "rms_db": -15.39
+  },
+  "swamp_body_slosh_03.wav": {
+    "duration_sec": 0.34,
+    "peak_db": -2.0,
+    "rms_db": -20.0
+  },
+  "swamp_scuff_drag_03.wav": {
+    "duration_sec": 0.4,
+    "peak_db": -1.6,
+    "rms_db": -12.07
+  },
+  "swamp_tail_suction_03.wav": {
+    "duration_sec": 0.32,
+    "peak_db": -1.8,
+    "rms_db": -19.28
+  },
+  "swamp_strike_soft_04.wav": {
+    "duration_sec": 0.3,
+    "peak_db": -2.2,
+    "rms_db": -22.31
+  },
+  "swamp_strike_hard_04.wav": {
+    "duration_sec": 0.36,
+    "peak_db": -1.2,
+    "rms_db": -13.77
+  },
+  "swamp_strike_land_04.wav": {
+    "duration_sec": 0.48,
+    "peak_db": -0.8,
+    "rms_db": -17.66
+  },
+  "swamp_body_slosh_04.wav": {
+    "duration_sec": 0.34,
+    "peak_db": -2.0,
+    "rms_db": -20.04
+  },
+  "swamp_scuff_drag_04.wav": {
+    "duration_sec": 0.4,
+    "peak_db": -1.6,
+    "rms_db": -15.83
+  },
+  "swamp_tail_suction_04.wav": {
+    "duration_sec": 0.32,
+    "peak_db": -1.8,
+    "rms_db": -20.78
+  },
+  "swamp_strike_soft_05.wav": {
+    "duration_sec": 0.3,
+    "peak_db": -2.2,
+    "rms_db": -21.36
+  },
+  "swamp_strike_hard_05.wav": {
+    "duration_sec": 0.36,
+    "peak_db": -1.2,
+    "rms_db": -17.5
+  },
+  "swamp_strike_land_05.wav": {
+    "duration_sec": 0.48,
+    "peak_db": -0.8,
+    "rms_db": -15.5
+  },
+  "swamp_body_slosh_05.wav": {
+    "duration_sec": 0.34,
+    "peak_db": -2.0,
+    "rms_db": -19.28
+  },
+  "swamp_scuff_drag_05.wav": {
+    "duration_sec": 0.4,
+    "peak_db": -1.6,
+    "rms_db": -16.51
+  },
+  "swamp_tail_suction_05.wav": {
+    "duration_sec": 0.32,
+    "peak_db": -1.8,
+    "rms_db": -15.93
+  },
+  "field_strike_soft_01.wav": {
+    "duration_sec": 0.25,
+    "peak_db": -2.8,
+    "rms_db": -22.21
+  },
+  "field_strike_hard_01.wav": {
+    "duration_sec": 0.3,
+    "peak_db": -1.4,
+    "rms_db": -12.97
+  },
+  "field_strike_land_01.wav": {
+    "duration_sec": 0.42,
+    "peak_db": -0.9,
+    "rms_db": -11.14
+  },
+  "field_body_turf_01.wav": {
+    "duration_sec": 0.28,
+    "peak_db": -2.2,
+    "rms_db": -18.55
+  },
+  "field_scuff_drag_01.wav": {
+    "duration_sec": 0.36,
+    "peak_db": -1.7,
+    "rms_db": -16.91
+  },
+  "field_tail_swish_01.wav": {
+    "duration_sec": 0.24,
+    "peak_db": -3.2,
+    "rms_db": -18.79
+  },
+  "field_strike_soft_02.wav": {
+    "duration_sec": 0.25,
+    "peak_db": -2.8,
+    "rms_db": -20.91
+  },
+  "field_strike_hard_02.wav": {
+    "duration_sec": 0.3,
+    "peak_db": -1.4,
+    "rms_db": -15.9
+  },
+  "field_strike_land_02.wav": {
+    "duration_sec": 0.42,
+    "peak_db": -0.9,
+    "rms_db": -18.23
+  },
+  "field_body_turf_02.wav": {
+    "duration_sec": 0.28,
+    "peak_db": -2.2,
+    "rms_db": -18.28
+  },
+  "field_scuff_drag_02.wav": {
+    "duration_sec": 0.36,
+    "peak_db": -1.7,
+    "rms_db": -15.27
+  },
+  "field_tail_swish_02.wav": {
+    "duration_sec": 0.24,
+    "peak_db": -3.2,
+    "rms_db": -15.66
+  },
+  "field_strike_soft_03.wav": {
+    "duration_sec": 0.25,
+    "peak_db": -2.8,
+    "rms_db": -21.35
+  },
+  "field_strike_hard_03.wav": {
+    "duration_sec": 0.3,
+    "peak_db": -1.4,
+    "rms_db": -13.17
+  },
+  "field_strike_land_03.wav": {
+    "duration_sec": 0.42,
+    "peak_db": -0.9,
+    "rms_db": -11.96
+  },
+  "field_body_turf_03.wav": {
+    "duration_sec": 0.28,
+    "peak_db": -2.2,
+    "rms_db": -21.56
+  },
+  "field_scuff_drag_03.wav": {
+    "duration_sec": 0.36,
+    "peak_db": -1.7,
+    "rms_db": -13.28
+  },
+  "field_tail_swish_03.wav": {
+    "duration_sec": 0.24,
+    "peak_db": -3.2,
+    "rms_db": -17.76
+  },
+  "field_strike_soft_04.wav": {
+    "duration_sec": 0.25,
+    "peak_db": -2.8,
+    "rms_db": -22.98
+  },
+  "field_strike_hard_04.wav": {
+    "duration_sec": 0.3,
+    "peak_db": -1.4,
+    "rms_db": -16.43
+  },
+  "field_strike_land_04.wav": {
+    "duration_sec": 0.42,
+    "peak_db": -0.9,
+    "rms_db": -12.03
+  },
+  "field_body_turf_04.wav": {
+    "duration_sec": 0.28,
+    "peak_db": -2.2,
+    "rms_db": -19.25
+  },
+  "field_scuff_drag_04.wav": {
+    "duration_sec": 0.36,
+    "peak_db": -1.7,
+    "rms_db": -14.85
+  },
+  "field_tail_swish_04.wav": {
+    "duration_sec": 0.24,
+    "peak_db": -3.2,
+    "rms_db": -17.37
+  },
+  "field_strike_soft_05.wav": {
+    "duration_sec": 0.25,
+    "peak_db": -2.8,
+    "rms_db": -21.67
+  },
+  "field_strike_hard_05.wav": {
+    "duration_sec": 0.3,
+    "peak_db": -1.4,
+    "rms_db": -15.71
+  },
+  "field_strike_land_05.wav": {
+    "duration_sec": 0.42,
+    "peak_db": -0.9,
+    "rms_db": -14.43
+  },
+  "field_body_turf_05.wav": {
+    "duration_sec": 0.28,
+    "peak_db": -2.2,
+    "rms_db": -16.77
+  },
+  "field_scuff_drag_05.wav": {
+    "duration_sec": 0.36,
+    "peak_db": -1.7,
+    "rms_db": -13.87
+  },
+  "field_tail_swish_05.wav": {
+    "duration_sec": 0.24,
+    "peak_db": -3.2,
+    "rms_db": -19.02
+  },
+  "breath_inhale_01.wav": {
+    "duration_sec": 0.28,
+    "peak_db": -3.5,
+    "rms_db": -15.6
+  },
+  "breath_exhale_01.wav": {
+    "duration_sec": 0.32,
+    "peak_db": -2.8,
+    "rms_db": -15.05
+  },
+  "breath_recovery_01.wav": {
+    "duration_sec": 0.38,
+    "peak_db": -5.0,
+    "rms_db": -15.85
+  },
+  "breath_inhale_02.wav": {
+    "duration_sec": 0.28,
+    "peak_db": -3.5,
+    "rms_db": -17.48
+  },
+  "breath_exhale_02.wav": {
+    "duration_sec": 0.32,
+    "peak_db": -2.8,
+    "rms_db": -15.67
+  },
+  "breath_recovery_02.wav": {
+    "duration_sec": 0.38,
+    "peak_db": -5.0,
+    "rms_db": -17.29
+  },
+  "breath_inhale_03.wav": {
+    "duration_sec": 0.28,
+    "peak_db": -3.5,
+    "rms_db": -15.47
+  },
+  "breath_exhale_03.wav": {
+    "duration_sec": 0.32,
+    "peak_db": -2.8,
+    "rms_db": -12.88
+  },
+  "breath_recovery_03.wav": {
+    "duration_sec": 0.377,
+    "peak_db": -5.0,
+    "rms_db": -18.2
+  },
+  "breath_inhale_04.wav": {
+    "duration_sec": 0.28,
+    "peak_db": -3.5,
+    "rms_db": -17.43
+  },
+  "breath_exhale_04.wav": {
+    "duration_sec": 0.32,
+    "peak_db": -2.8,
+    "rms_db": -13.6
+  },
+  "breath_recovery_04.wav": {
+    "duration_sec": 0.38,
+    "peak_db": -5.0,
+    "rms_db": -17.07
+  },
+  "breath_inhale_05.wav": {
+    "duration_sec": 0.28,
+    "peak_db": -3.5,
+    "rms_db": -16.14
+  },
+  "breath_exhale_05.wav": {
+    "duration_sec": 0.32,
+    "peak_db": -2.8,
+    "rms_db": -13.22
+  },
+  "breath_recovery_05.wav": {
+    "duration_sec": 0.38,
+    "peak_db": -5.0,
+    "rms_db": -16.27
+  },
+  "ambience_bunker_drone.wav": {
+    "duration_sec": 4.5,
+    "peak_db": -6.0,
+    "rms_db": -17.93
+  },
+  "ambience_swamp_murk.wav": {
+    "duration_sec": 4.5,
+    "peak_db": -6.0,
+    "rms_db": -21.33
+  },
+  "ambience_field_wind.wav": {
+    "duration_sec": 4.5,
+    "peak_db": -6.0,
+    "rms_db": -24.89
+  },
+  "ambience_master_hybrid.wav": {
+    "duration_sec": 4.5,
+    "peak_db": -6.0,
+    "rms_db": -19.22
+  }
+}
